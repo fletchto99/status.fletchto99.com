@@ -4,19 +4,19 @@
     "url": "https://home.fletchto99.com",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/home-logo.png",
     "slug": "home",
-    "status": "down",
-    "uptime": "57.28%",
-    "uptimeDay": "57.28%",
-    "uptimeWeek": "57.28%",
-    "uptimeMonth": "57.28%",
-    "uptimeYear": "57.28%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "49.68%",
+    "uptimeDay": "49.68%",
+    "uptimeWeek": "49.68%",
+    "uptimeMonth": "49.68%",
+    "uptimeYear": "49.68%",
+    "time": 194,
+    "timeDay": 194,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2021-06-21": 35
+      "2021-06-21": 48
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$BLOG_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "96.74%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "96.74%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
-    "time": 297,
-    "timeDay": 297,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "83.76%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "83.76%",
+    "uptimeYear": "83.76%",
+    "time": 299,
+    "timeDay": 299,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2021-06-21": 3
+      "2021-06-21": 16
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$CLOUD_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/cloud-logo.png",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "97.34%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
-    "time": 314,
-    "timeDay": 314,
-    "timeWeek": 314,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "84.26%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "84.26%",
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {
-      "2021-06-21": 2
+      "2021-06-21": 15
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$IMAGE_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/image-logo.png",
     "slug": "images",
-    "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "97.99%",
-    "time": 312,
-    "timeDay": 312,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "84.78%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "84.78%",
+    "uptimeMonth": "84.78%",
+    "uptimeYear": "84.78%",
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2021-06-21": 2
+      "2021-06-21": 15
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$MEDIA_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/media-logo.png",
     "slug": "media",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.61%",
+    "status": "up",
+    "uptime": "85.32%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "85.32%",
+    "uptimeMonth": "85.32%",
+    "uptimeYear": "85.32%",
     "time": 182,
     "timeDay": 182,
     "timeWeek": 182,
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2021-06-21": 1
+      "2021-06-21": 14
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$REQUEST_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/request-logo.png",
     "slug": "request",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "status": "up",
+    "uptime": "85.84%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "85.84%",
+    "time": 198,
+    "timeDay": 198,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2021-06-21": 1
+      "2021-06-21": 14
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/backups-logo.png",
     "slug": "backups",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "65.53%",
+    "uptimeDay": "65.53%",
+    "uptimeWeek": "65.53%",
+    "uptimeMonth": "65.53%",
+    "uptimeYear": "65.53%",
     "time": 121,
     "timeDay": 121,
     "timeWeek": 121,
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-06-21": 0
+      "2021-06-21": 13
     }
   }
 ]
