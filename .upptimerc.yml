@@ -6,6 +6,7 @@ sites:
   - name: Home
     url: $HOME_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
   - name: Blog
     url: $BLOG_SITE
     maxResponseTime: 5000
@@ -27,10 +28,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fletchto99.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Flethto99 Status
-  introTitle: "Beep boop"
-  introMessage: "Fletchto99's status page powered by GitHub Actions"
+  logoUrl: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
+  favicon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
+  name: "Flethto99's Status"
   navbar:
     - title: Status
       href: /
