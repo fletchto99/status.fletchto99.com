@@ -4,7 +4,7 @@ repo: status.fletchto99.com # The name of this repository
 
 sites:
   - name: Home
-    url: $HOME_SITE
+    url: https://home.fletchto99.com
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/home-logo.png
   - name: Blog
