@@ -1,6 +1,7 @@
 # Change these first
 owner: fletchto99 # Your GitHub organization or username, where this repository lives
 repo: status.fletchto99.com # The name of this repository
+user-agent: fletchto99
 
 sites:
   - name: Home
@@ -32,6 +33,9 @@ sites:
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/backups-logo.png
     
+assignees: # Users to assign downtime issues (optional)
+  - fletchto99
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
