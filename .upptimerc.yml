@@ -10,18 +10,23 @@ sites:
   - name: Blog
     url: $BLOG_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
   - name: Cloud
     url: $CLOUD_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/cloud-logo.png
   - name: Images
     url: $IMAGE_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/image-logo.png
   - name: Media
     url: $MEDIA_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/media-logo.png
   - name: Request
     url: $REQUEST_SITE
     maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/request-logo.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
