@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/home-logo.png",
     "slug": "home",
     "status": "up",
-    "uptime": "13.96%",
-    "uptimeDay": "13.96%",
-    "uptimeWeek": "13.96%",
-    "uptimeMonth": "13.96%",
-    "uptimeYear": "13.96%",
+    "uptime": "22.25%",
+    "uptimeDay": "22.25%",
+    "uptimeWeek": "22.25%",
+    "uptimeMonth": "22.25%",
+    "uptimeYear": "22.25%",
     "time": 191,
     "timeDay": 191,
     "timeWeek": 191,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2021-06-21": 35
+      "2021-06-21": 32
     }
   },
   {
