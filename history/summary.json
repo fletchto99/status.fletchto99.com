@@ -82,19 +82,19 @@
     "url": "$MEDIA_SITE",
     "icon": "https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/media-logo.png",
     "slug": "media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 203,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 177,
+    "timeDay": 162,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2021-06-27": 0
+      "2021-06-27": 7
     }
   },
   {
