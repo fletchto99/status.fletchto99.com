@@ -1,7 +1,7 @@
 url: $BLOG_SITE
-status: up
-code: 200
-responseTime: 244
-lastUpdated: 2021-11-03T23:02:20.761Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-11-04T09:01:13.904Z
 startTime: Mon Jun 21 2021 19:36:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
