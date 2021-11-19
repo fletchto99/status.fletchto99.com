@@ -1,7 +1,7 @@
 url: $CLOUD_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-11-19T16:26:51.612Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2021-11-19T16:40:28.293Z
 startTime: Mon Jun 21 2021 19:36:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
