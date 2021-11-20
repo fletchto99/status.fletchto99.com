@@ -1,7 +1,7 @@
 url: $IMAGE_SITE
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2021-11-19T23:02:16.524Z
+status: down
+code: 500
+responseTime: 250
+lastUpdated: 2021-11-20T10:01:45.149Z
 startTime: Mon Jun 21 2021 19:36:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
