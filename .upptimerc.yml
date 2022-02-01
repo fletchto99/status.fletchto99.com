@@ -43,7 +43,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
   favicon: https://raw.githubusercontent.com/fletchto99/status.fletchto99.com/master/assets/fletch-logo.png
-  name: "Flethto99's Status"
+  name: "Fletchto99's Status"
   navbar:
     - title: Status
       href: /
