@@ -1,7 +1,7 @@
 url: $BACKUPS_SITE
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2022-05-22T23:02:43.526Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-05-23T17:11:55.903Z
 startTime: Mon Jun 21 2021 20:34:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
